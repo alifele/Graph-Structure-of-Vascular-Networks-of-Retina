@@ -1,5 +1,4 @@
-Graph structures of vascualr netowrks
-=======
+
 # 🕸️ Vascular Network Graphs of the Human Retina
 
 This repository contains the vascular network graphs of the human retina, stored in the [NetworkX](https://networkx.org/) graph format. These graphs represent the vascular structures of the retina and are suitable for analysis, visualization, and research in graph theory, vascular biology, and more.
@@ -27,7 +26,7 @@ This repository provides a dataset of vascular networks extracted from the human
 ## 📊 Dataset Overview
 Here’s a visual representation of the dataset elements:
 
-![Dataset Figure](https://github.com/alifele/Graph-Structure-of-Vascular-Networks-of-Retina/blob/349eef009251f058e61de49ae3e1ee01063f311d/images/HRF-healthy.png)  
+![Dataset Figure](https://github.com/alifele/Graph-Structure-of-Vascular-Networks-of-Retina/blob/2f6f0e53482d7428857be17bc566f8fddb5480c1/images/ROSE-O-Train.png)  
 *Figure: Visual depiction of the vascular network.*
 
 ---
@@ -123,4 +122,3 @@ We welcome contributions! If you have suggestions, improvements, or bug fixes, f
 ---
 
 🎉 **Thank you for using this dataset! Happy graphing!**
->>>>>>> c16e367d133213415f5c7737247980991027358c
