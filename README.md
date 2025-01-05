@@ -109,7 +109,7 @@ plt.show()
 ## 🔗 How to Cite
 If you use this dataset in your research or application, please cite the following paper:
 
-> Author Name(s), "Title of the Paper," Journal Name, Year, DOI/Link.
+> The citation information will be made available soon.
 
 ---
 
