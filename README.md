@@ -27,7 +27,7 @@ This repository provides a dataset of vascular networks extracted from the human
 ## 📊 Dataset Overview
 Here’s a visual representation of the dataset elements:
 
-![Dataset Figure](https://github.com/alifele/Graph-Structure-of-Vascular-Networks-of-Retina/blob/349eef009251f058e61de49ae3e1ee01063f311d/images/HRF-healthy.png)  
+![Dataset Figure](https://github.com/alifele/Graph-Structure-of-Vascular-Networks-of-Retina/blob/2f6f0e53482d7428857be17bc566f8fddb5480c1/images/ROSE-O-Train.png)  
 *Figure: Visual depiction of the vascular network.*
 
 ---
